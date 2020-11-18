@@ -4,6 +4,8 @@
 
 - FreeBSD/Slackware/Emacs
 - C++20/Rust/Golang/Haskell
-- Love NATS, SSDB, Redis
+- container/docker/kubernetes/knative
+- lambda/serverless ...
+- Love NATS, SSDB, Redis 
 - Love ...
 
