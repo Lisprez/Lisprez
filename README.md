@@ -2,10 +2,11 @@
 
 **Make it simple & stupid**
 
-- FreeBSD/Slackware/Emacs
-- C++20/Rust/Golang/Haskell
+- FreeBSD/Gentoo/Emacs
+- C++XY/Rust/Zig/Golang/Haskell
 - container/Docker/Kubernetes/Knative
-- Lambda/Serverless ...
-- Love NATS, SSDB, Redis 
-- Love ...
+- Lambda/Serverless/Blockchain ...
+- Love NATS, SSDB, Redis, ZeroMQ, Nginx ...
+- Love ... ... Money just for food
+- ...
 
