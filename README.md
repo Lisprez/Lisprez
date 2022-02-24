@@ -2,7 +2,7 @@
 
 I am looking for a job in Canada, if you can offer a position, please contact me
 
-**Make it simple & stupid**
+motto: **Make it simple & stupid**
 
 - OS I'm using: FreeBSD/Linux/Emacs ...
 - LANG I'm using: C/C++/Rust/Golang
